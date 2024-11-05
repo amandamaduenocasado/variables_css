@@ -11,7 +11,7 @@
 // LLAMADA A LAS VARIABLES CSS
 const rootStyles = document.documentElement.style;
 
-//LLAMADA A LOS ELMENTOS
+//LLAMADA A LOS ELEMENTOS
 const textElement = document.getElementById("text");
 const buttonRGBElement = document.getElementById("buttonRGB");
 const buttonHexElement = document.getElementById("buttonHex");
